@@ -1,9 +1,8 @@
-Recovery-philz patched for x86
+<center>Recovery-philz patched for x86</center>
 ===============================
-by qubex, thanks to Hazou and moonbutt for the patches
 ===============================
 
-__<center><big>Recovery-philz patched for x86 </big></center>__
+__<center><big>by qubex, thanks to Hazou and moonbutt for the patches</big></center>__
 
 .
 
