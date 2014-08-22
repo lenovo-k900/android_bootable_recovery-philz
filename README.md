@@ -1,4 +1,4 @@
-<center>Recovery-philz patched for x86</center>
+<center>CM11 Recovery-philz patched for x86</center>
 ===============================
 ===============================
 
